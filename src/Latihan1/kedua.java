@@ -7,7 +7,7 @@ package Latihan1;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 class kedua extends pertama {
     private int b = 8;

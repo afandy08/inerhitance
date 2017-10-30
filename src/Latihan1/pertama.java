@@ -7,7 +7,7 @@ package Latihan1;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 class pertama {
    private int a = 10;

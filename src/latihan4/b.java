@@ -7,7 +7,7 @@ package latihan4;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class b extends a{
     private int b;

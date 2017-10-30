@@ -7,7 +7,7 @@ package inheritanse;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class inheritanse {
     

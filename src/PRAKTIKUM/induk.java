@@ -7,7 +7,7 @@ package PRAKTIKUM;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class induk {
     public void test(){

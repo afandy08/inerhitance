@@ -7,7 +7,7 @@ package Latihan3;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class gajah extends hewan {
     public static void testClassMethod()

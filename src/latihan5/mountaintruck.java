@@ -7,7 +7,7 @@ package latihan5;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class mountaintruck extends truck {
     public int seatheight;

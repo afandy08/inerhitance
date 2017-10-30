@@ -7,7 +7,7 @@ package latihan4;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class demooverride2 {
     public static void main (String [] args)

@@ -7,7 +7,7 @@ package Latihan1;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 class testpertamakedua {
     public static void main (String []args)

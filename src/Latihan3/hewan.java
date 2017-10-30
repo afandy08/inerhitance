@@ -7,7 +7,7 @@ package Latihan3;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class hewan {
     public static void testClassMethod()

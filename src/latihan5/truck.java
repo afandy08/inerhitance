@@ -7,7 +7,7 @@ package latihan5;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class truck {
     public int cadence;

@@ -7,7 +7,7 @@ package Latihan2;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class employ extends person {
     private String noKaryawan;

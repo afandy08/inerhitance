@@ -7,7 +7,7 @@ package PRAKTIKUM;
 
 /**
  *
- * @author Xaddam
+ * @author Kardi
  */
 public class turunan extends induk {
     public void test(String s){
